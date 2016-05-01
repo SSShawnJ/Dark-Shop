@@ -1,0 +1,54 @@
+S.No    Name of the Book          Author    Price($)  Quantity    Type      
+ 1      Java Rocks                 XYZ       150         1        Book      
+ 2      Python Sucks               YYZ       200         1        Book      
+
+                                                  SubTotal:350$
+                                                  HST(13%):45.50$
+                                                  -----------------------
+                                                  Total:395.50$
+                                                  Date: April 28, 2016
+
+----------------------------------------------------------------------------------------
+
+S.No    Name of the Book          Author    Price($)  Quantity    Type      
+ 3      Harry Portter All Vol.     ZZZ       200         1        eBook     
+ 4      Twilight                   DSS       250         1        eBook     
+
+                                                  SubTotal:450$
+                                                  HST(13%):58.50$
+                                                  -----------------------
+                                                  Total:508.50$
+                                                  Date: April 28, 2016
+
+----------------------------------------------------------------------------------------
+
+S.No    Name of the Book          Author    Price($)  Quantity    Type      
+ 5      Java you are in my heart   ADF       100         1        CD        
+ 7      GHID                       CDF       20          1        MP3       
+
+                                                  SubTotal:120$
+                                                  HST(13%):15.60$
+                                                  -----------------------
+                                                  Total:135.60$
+                                                  Date: April 28, 2016
+
+----------------------------------------------------------------------------------------
+
+S.No    Name of the Book          Author    Price($)  Quantity    Type      
+ 1      Java Rocks                 XYZ       150         1        Book      
+ 6      C++ you are in my soul     DEF       150         1        CD        
+ 5      Java you are in my heart   ADF       100         1        CD        
+ 2      Python Sucks               YYZ       200         1        Book      
+ 3      Harry Portter All Vol.     ZZZ       200         1        eBook     
+ 4      Twilight                   DSS       250         1        eBook     
+ 8      FTHD                       REF       10          1        MP3       
+ 7      GHID                       CDF       20          1        MP3       
+
+                                                  SubTotal:1080$
+                                                  HST(13%):140.40$
+                                                  -----------------------
+                                                  Total:1220.40$
+                                                  Date: April 28, 2016
+
+----------------------------------------------------------------------------------------
+
